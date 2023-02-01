@@ -20,6 +20,8 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 - Run the following line of code in terminal to install packages: npm i
 
 ## Important Links
+- http://localhost:3001 
+- https://github.com/RussC22
 
 ## Technology Used
 
