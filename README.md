@@ -3,6 +3,7 @@
 An application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 
 ## Project Description
+
 <img width="903" alt="Screenshot 2023-01-31 at 10 02 47 PM" src="https://user-images.githubusercontent.com/114961971/215935140-46962bde-0aec-4e10-a544-011f2146e701.png">
 
 - (Video detailing app) )https://drive.google.com/file/d/1h4bIdLSoD_QnzFinuruJN8bPZs7Hb3j_/view
@@ -22,9 +23,11 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 - Run the following line of code in terminal to install packages: npm i
 
 ## Important Links
-- http://localhost:3001 
+
+- http://localhost:3001
+
 - https://git[Uploading Note Taker.webm…]()
-hub.com/RussC22
+  hub.com/RussC22
 
 ## Technology Used
 
