@@ -3,6 +3,7 @@
 An application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 
 ## Project Description
+<img width="903" alt="Screenshot 2023-01-31 at 10 02 47 PM" src="https://user-images.githubusercontent.com/114961971/215935140-46962bde-0aec-4e10-a544-011f2146e701.png">
 
 Note-Taker is an application that can be used to write and save notes. This app uses Express.js back end and will save and retrieve note data from a JSON file
 
