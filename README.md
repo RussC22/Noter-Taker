@@ -24,12 +24,11 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Important Links
 
-- http://localhost:3001
+- [<a href='https://https://github.com/RussC22/Object-Oriented-Programming-' target="_blank"><img alt='Github' src='https://img.shields.io/badge/Github-100000?style=plastic&logo=Github&logoColor=8D22FF&labelColor=151304&color=C707A4'/></a>](https://github.com/RussC22/Noter-Taker)
 
-- https://git[Uploading Note Taker.webm…]()
-  hub.com/RussC22
-
+- [LocalHost](http://localhost:3001)
 ## Technology Used
+
 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
